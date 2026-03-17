@@ -1,0 +1,28 @@
+
+movies:
+    malayalam:
+         ml1
+         ml2
+    tamil:
+        tm1
+        tm2
+    kannada:
+        kd1
+        kd2
+
+food:
+    breakfast:
+        idly
+        dosa
+        tea
+    lunch:
+        meals
+        friedrice
+        biriyani
+    snacks:
+        cutlet
+        puffs
+    dinner:
+        butter nan
+        porotta
+        alfahm

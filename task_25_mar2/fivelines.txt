@@ -1,0 +1,5 @@
+apple is a fruit
+mango is a fruit
+banana is a fruit
+rice is a grain
+tea is a snack
