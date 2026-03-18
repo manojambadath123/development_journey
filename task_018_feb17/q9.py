@@ -8,6 +8,8 @@ for exp in expense_month:
 
         print("searched element found",exp)
 
+        break
+
 else:
         
     print("searched element  not found")
