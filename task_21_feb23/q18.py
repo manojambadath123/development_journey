@@ -6,4 +6,7 @@ for k,v in my_dict.items():
 
     print(k,v)
 
-    if k
+    if k in keys_to_remove:
+
+        
+

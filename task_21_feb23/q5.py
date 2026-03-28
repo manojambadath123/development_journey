@@ -10,9 +10,9 @@ print("combined tuple=",combined_tuple)
 
 
 reversed_tuple_slicing = combined_tuple[::-1]
-print(f"Reversed tuple using slicing:{reversed_tuple_slicing}")
+print(f"Reversed tuple using slicing={reversed_tuple_slicing}")
 
 reversed_iterator = reversed(combined_tuple)
 
 reversed_tuple_function = tuple(reversed_iterator)
-print(f"Reversed tuple using reversed() function: {reversed_tuple_function}")
+print(f"Reversed tuple using reversed() function= {reversed_tuple_function}")

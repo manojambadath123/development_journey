@@ -2,7 +2,7 @@
 
 list = [10,45,23,89,67,89,34]
 
-largest = list[0]
+largest = second_largest= list[0]
 
 for num in list:
 
@@ -10,6 +10,8 @@ for num in list:
 
         second_largest=largest
         largest=num
+    elif num>second_largest and num!=largest:
+        second_largest = num
 
         
 print("largest number=",largest)

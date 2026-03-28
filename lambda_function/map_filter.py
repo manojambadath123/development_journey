@@ -56,3 +56,6 @@ comp_even = [num for num in lst if num%2==0]
 # from builtins import input
 # from sklearn.metrics import f1_score
 # from django.contrib.auth.models import User
+
+from functools import reduce
+
